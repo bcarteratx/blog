@@ -38,7 +38,7 @@ The Web client does not allow you to:
 
 * Share your screen in a zoom room
 * Display upcoming meetings 	 
-* Display synced calendar events (if * you added a third-party calendar * service)
+* Display synced calendar events (if you added a third-party calendar service)
 * View, edit, start, or delete your scheduled meetings	 
 * Pre-assign participants to breakout rooms (if set up by the host)
 * Start local recordings
