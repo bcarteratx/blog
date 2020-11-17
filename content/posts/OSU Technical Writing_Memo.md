@@ -1,9 +1,9 @@
 ---
-title: Technical Writing Course Memo
+title: OSU Technical Writing - Memo
 date: "2020-11-16T14:54:43.169Z"
 template: "post"
 draft: false
-slug: "comparing-database-types"
+slug: "osu-technical-writing-memo"
 category: "Post"
 tags:
   - "Technical Writing"
