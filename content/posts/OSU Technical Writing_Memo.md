@@ -12,9 +12,9 @@ tags:
 description: "My first assignment for OSU's Technical Writing Course"
 ---
 
-As I learned to code while in General Assembly’s full stack engineering bootcamp, I quickly realized how important good documentation was to the success of all developers. As a cohort of beginners, we used documentation to learn, but even our experienced teachers let us know that they too rely on documentation to help them code. Throughout the bootcamp I kept thinking about technical writing, how it resonated with my interest to learn, ability to write, and desire to help others. Learning to code was exciting and being able to communicate that knowledge in a way that helped others and something I wanted to pursue professionally after the bootcamp. 
+As I learned to code while attending General Assembly’s full stack engineering bootcamp, I quickly realized how important good documentation was to the success of all developers. As a cohort of beginners, we used documentation to learn, but even our experienced teachers let us know that they too rely on documentation to help them code. Throughout the bootcamp I kept thinking about technical writing, how it resonated with my interest to learn, ability to write, and desire to help others. Learning to code was exciting and being able to communicate that knowledge in a way that helped others was something I wanted to pursue professionally after the bootcamp. 
 
-I had heard from a friend that OSU has an online [technical writing course](https://workspace.oregonstate.edu/course/) and I thought it would be a great way to add some technical writing concepts to my repertoire. Since enrolling I have learned about imperative mood and user-centric design while writing. Our first assignment was to write a one page memo explaining a change to an existing procedure and detailing the new process. I found this simple exercise was a great way to warm up, check it out below!
+A friend of mine told me about Oregon State University's online [technical writing course](https://workspace.oregonstate.edu/course/) and I thought it would be a great way to add some technical writing concepts to my repertoire. Since enrolling I have learned how imperative mood and user-centric design contribute to good documentation. Our first assignment was to write a one page memo explaining a change to an existing procedure and detailing the new process. I found this simple exercise was a great warm up for the course, check it out below!
 
 ---
 Memo
@@ -59,4 +59,4 @@ If you have any problems installing the Zoom desktop client, need assistance wit
 
 ---
 
-The objective of this memo was to describe the task in a way that anyone regardles of skill level could understand, I think it turned out well. Our next assignment is a full manual/tutorial with illustrated instructions, I'm excited to get to work on it and share with you in my next post!
+The objective of this memo was to describe the task in a way that anyone regardles of skill level could understand, I think it turned out well. Our next assignment is a full manual/tutorial with illustrated instructions, I'm excited to get to work and share it with you in my next post!
